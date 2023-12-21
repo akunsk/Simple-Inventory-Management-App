@@ -7,4 +7,5 @@ This application is made as a final portfolio project for ALX that took place du
 The file adwya.sql creates the different tables of the database named adwya used by the application as well as the different constraints ( primary and foreign keys ) and adds two users for test purposes: user a ( administrator ) and user b ( regular user : He has no rights to modify or delete data )
 
 The application/ folder contains the application while the screenshots/ folder contains some screenshots of the application.
+![Screenshot](https://raw.githubusercontent.com/stoufa/simple-gestion-stock-php/master/screenshots/1.png)
 
